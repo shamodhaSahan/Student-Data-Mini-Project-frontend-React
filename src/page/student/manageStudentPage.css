@@ -1,0 +1,22 @@
+h1 {
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+
+.form-cont-btn button {
+    width: 80px;
+}
+
+.form-cont-btn {
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+tbody tr:hover {
+    background-color: rgb(243, 243, 243);
+    cursor: pointer;
+}
+#staticBackdrop{
+    background-color: rgba(218, 218, 218, 0.534);
+}
